@@ -23,7 +23,7 @@ const printWanko = () => {
 
 
   const introduce = (callback) => {
-    callback("ほんですがな？")
+    callback("ほですがな？")
   };
   // introduce(callback)        f( g(x) )
   // callback("ほんまかいな？")    g(x)
