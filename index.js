@@ -13,7 +13,7 @@ const printWanko = () => {
 
 
   const call = (callback) => {
-    console.log("コールバック関数を呼び出し。");
+    console.log("コーバック関数を呼び出し。");
     callback();
   };
 // call(callback)   f( g(x) )
